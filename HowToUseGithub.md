@@ -2,7 +2,7 @@
 
 # PODCZAS REALIZACJI ZADAŃ KAŻDY Z PRAKTYKANTÓW MUSI UTWORZYĆ SWOJEGO BRANCHA I PRACOWAĆ NA NIM W CELU UTRZYMANIA PORZĄDKU W STRUKTURZE GIT-A. PROSZĘ O NIE PUSHOWANIE ZMIAN NA MASTERA/MAINA. Informację jak to zrobić znajdziesz na dole tego dokumentu.
 
-## Tworzenie konta na githubie i podłaćzenie do sourcetree
+## Tworzenie konta na githubie i podłączenie do sourcetree
 1. Utwórz konto na Githubie https://github.com/
 2. Po utworzeniu konta wyślij na mój adres email wojciech.kostrzewski@explitia.com maila o treści : "Proszę o dodanie mnie (imię i nazwisko) do zespołu praktykantów. [tutaj wpisz nazwę Twojego użytkownika Github]"
 3. Po akceptacji zostaniesz dodany do organizacji Githubowej "ExplitiaInternship" utworzonej na potrzeby praktyk. Powinieneś w tym momencie mieć dostep do linku https://github.com/ExplitiaInternship
