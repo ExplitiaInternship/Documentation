@@ -1,1 +1,2 @@
 # Test dokumentacji
+changes added
