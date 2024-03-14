@@ -17,7 +17,7 @@
 - teraz przejdź na githuba do wybranego repozytorium klikając na nie
 - skopiuj adres repozytorium, które chcesz sklonować na lokalny komputer według instrukcji załaczonych na zdjęciu 
 ![image](https://github.com/ExplitiaInternship/Documentation/assets/163396037/813b82e2-9e2d-4edd-92ec-c1975314ece7)
-- otworzyć sourcetree i w nowej zakładce kliknąć "clone" zaznaczone munerem 1 na zdjęciu. W pole oznaczone jako 2 wporwadź wcześniej skopiowany adres url. W pole oznaczone jako 3 wprowadź adres do folderu na Twoim komputerze, do którego chcesz sklonować repozytorium. Folder do którego chcesz sklonować repozytorium nie może zawierać innnego repozytorium. Całość zatwierdź klikając przycisk clone oznaczony numerem 4. 
+- otworzyć sourcetree i w nowej zakładce kliknąć "clone" zaznaczone numerem 1 na zdjęciu. W pole oznaczone jako 2 wporwadź wcześniej skopiowany adres url. W pole oznaczone jako 3 wprowadź adres do folderu na Twoim komputerze, do którego chcesz sklonować repozytorium. Folder do którego chcesz sklonować repozytorium nie może zawierać innnego repozytorium. Całość zatwierdź klikając przycisk clone oznaczony numerem 4. 
 ![image](https://github.com/ExplitiaInternship/Documentation/assets/163396037/83f814d4-4524-4a07-8703-1aa916b368e4)
 - po udanym sklonowaniu powinieneś widzieć w sourcetree taki ekran 
 ![image](https://github.com/ExplitiaInternship/Documentation/assets/163396037/37f38a49-9297-4170-a7d1-57976ecfc499)
