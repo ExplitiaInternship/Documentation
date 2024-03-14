@@ -57,6 +57,8 @@ Klikamy przycisk branch i uzupełniamy dialog. Dobrą praktyką jest tworzenie b
 Utworzony branch widoczny będzie w panelu branches 
 ![image](https://github.com/ExplitiaInternship/Documentation/assets/163396037/6afeb1fd-2612-44a1-958f-eff66a46c32c)
 
+Dupa
+
 
 
 
